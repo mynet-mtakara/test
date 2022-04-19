@@ -1,5 +1,5 @@
 ---
-name: element
+name: element2
 about: エレメントのコピー
 title: エレメント作成「」
 labels: ''
